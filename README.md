@@ -1,6 +1,4 @@
 # thoughts-ideas-notes
 Everything **relevant** that cross my mind :memo: :pizza: :city_sunset: :suspect:
 
-[patrickGif][1]
-
-[1]: https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.gloriaoliver.com%2F2021%2F01%2Fbrilliant-idea-disaster-and-finally.html&psig=AOvVaw2quPXAeCp-pqoluT72hxgO&ust=1635908162671000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi9koXX-PMCFQAAAAAdAAAAABAE "patrickGif"
+[![patrickGif](https://i1.wp.com/bucket.mlcdn.com/a/2500/2500633/images/4830b462fcdd7fad97fa96227272740cbaf76d09.gif?w=1080&ssl=1 "patrickGif")](https://i1.wp.com/bucket.mlcdn.com/a/2500/2500633/images/4830b462fcdd7fad97fa96227272740cbaf76d09.gif?w=1080&ssl=1 "patrickGif")
