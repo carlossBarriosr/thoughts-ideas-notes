@@ -1,2 +1,3 @@
 # thoughts-ideas-notes
-Everything relevant that cross my mind
+Everything relevant that cross my mind :smile:
+
